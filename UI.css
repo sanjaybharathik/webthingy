@@ -1,0 +1,77 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    
+}
+
+
+.Header{
+    display: flex;
+    height: 100px;
+    background: rgb(243,204,255);
+    background: linear-gradient(250deg, rgba(243,204,255,1) 0%, rgba(208,156,250,1) 100%);
+    flex-shrink: 0;
+    align-items: center;
+}
+
+.Logo{
+    padding: 1%;
+    height: 70%;
+}
+
+label{
+    font-family: 'poppins',sans-serif;
+    padding: 20px;
+    margin: 10px;
+    font-size: 200%;
+}
+
+.Headtext{  
+    padding: 0%;
+    font-size: 150%;
+    font-weight: bold;
+    color: white;
+    text-shadow: 1px 1px black;
+}
+
+.You{
+    font-weight: bolder;
+    color: rgb(243,204,255);
+    background: -webkit-linear-gradient(45deg, #A555EC, #D09CFA);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;}
+
+.Main{
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    background: rgb(255, 255, 208);
+}
+
+.Resturants-list{
+    display: flex;
+    gap: 5px;
+    overflow-y: auto;
+}
+
+.cards{
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+    background: #D09CFA;
+    border-radius: 2%;
+}
+
+.cardtext{
+    font-family: 'poppins', sans-serif;   
+}
+
+strong{
+    font-weight: bolder;
+    font-size: x-large;
+}
+
+

@@ -1,0 +1,38 @@
+<restaurants>
+  <restaurant>
+    <name>KFC</name>
+    <location>M.G Road</location>
+  </restaurant>
+  <restaurant>
+    <name>Dominoes</name>
+    <location>M.G Road</location>
+  </restaurant>
+  <restaurant>
+    <name>Pizza Hut</name>
+    <location>PVP Mall</location>
+  </restaurant>
+  <restaurant>
+    <name>Mandi</name>
+    <location>E3 Food Hub</location>
+  </restaurant>
+  <restaurant>
+    <name>Subway</name>
+    <location>Benz Circle</location>
+  </restaurant>
+  <restaurant>
+    <name>Zaitoon</name>
+    <location>M.G Road</location>
+  </restaurant>
+  <restaurant>
+    <name>Platform 65</name>
+    <location>M.G Road</location>
+  </restaurant>
+  <restaurant>
+    <name>Barbaque Nation</name>
+    <location>LEPL Centro Mall</location>
+  </restaurant>
+  <restaurant>
+    <name>Hotel Madhuvan</name>
+    <location>Location 9</location>
+  </restaurant>
+</restaurants>
